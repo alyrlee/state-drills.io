@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import HelloWorld from './state-drills/HelloWorld';
 import Bomb from './state-drills/Bomb';
 import RouletteGun from './state-drills/RouletteGun';
-import Accordion from './Accordian';
+import Accordion from './src/state/state-drills/Accordian/Accordian.js';
 import './App.css'
 
 const sections = [
